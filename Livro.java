@@ -78,4 +78,8 @@ public class Livro {
 	public String toString() {
 	    return String.format("Nome %s | autor %s | quantidade: %d", titulo, autor, qtdDisponivel);
 	}
+	
+	public void listarLivros() {
+		  
+	  }
 }
